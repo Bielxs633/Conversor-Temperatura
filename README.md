@@ -12,11 +12,11 @@ Este projeto é um **Conversor de Temperatura**. O conversor permite que o usuá
 ---
 
 ## Funcionalidades
-- Permite ao usuário inserir um valor em **Celsius**.
-- Exibe a temperatura correspondente em **Fahrenheit** após a conversão.
-- Permite ao usuário inserir um valor em **Fahrenheit**.
-- Exibe a temperatura correspondente em **Celsius** após a conversão.
-- Interface simples e intuitiva com feedback visual.
+1. Permite ao usuário inserir um valor em **Celsius**.
+2. Exibe a temperatura correspondente em **Fahrenheit** após a conversão.
+3. Permite ao usuário inserir um valor em **Fahrenheit**.
+4. Exibe a temperatura correspondente em **Celsius** após a conversão.
+5. Interface simples e intuitiva com feedback visual.
 
 ---
 
